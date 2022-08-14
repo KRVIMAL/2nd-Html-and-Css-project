@@ -2,15 +2,15 @@
 
 
 ## This is First web page i have created.
-It took me 4 hours to complete. 
+It took me 45 minutes to complete. 
 ### I have learnt following things while creating this project.
 1. Css positions
-2. Borders
-3. Buttons
-4. Z-index
-5. Background Images
+2. Buttons
+3. Css gradients
+4. Opacity
+5. Css Variables
 
-[![main page clickable image](./screenshots/main%20page.png "main page")](www.google.com)
+[![main page clickable image](./screenshots/main-page.png)](www.google.com)
 
 
   ##### [Click here to view live project](www.google.com "click here to view page")
